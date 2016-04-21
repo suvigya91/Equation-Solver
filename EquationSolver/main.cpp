@@ -1,7 +1,6 @@
 /*
 File Name: main.cpp
 Purpose: cpp file for main
-Author: Gayatri Powar
 */
 
 
