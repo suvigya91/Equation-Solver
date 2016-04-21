@@ -1,5 +1,5 @@
 Read Me
-Creator : Gayatri Powar
+
 -------------------
 The task is to write a command-line program to evaluate a set of
 equations, each specified on separate lines. An equation is defined
